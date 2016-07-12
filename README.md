@@ -1,2 +1,2 @@
 # GitTut
-this is some minor change to be merged
+this needs to be merged to the master branch
